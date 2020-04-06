@@ -7,3 +7,13 @@ C:\Users\insider Charlie\source\repos\fyp\BLL\obj\Debug\netcoreapp3.1\BLL.Assemb
 C:\Users\insider Charlie\source\repos\fyp\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
 C:\Users\insider Charlie\source\repos\fyp\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 C:\Users\insider Charlie\source\repos\fyp\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+C:\Users\captJack\Documents\GitHub\fypApi\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
